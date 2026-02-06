@@ -55,14 +55,24 @@ Uma proposta de validação inicial para testar se o app realmente ajuda o usuá
 O conteúdo deve ser apresentado em português, com linguagem acessível e tom educativo.
 
 ## 🤖 Interações com IA
-- Prints ou vídeos das respostas do Copilot ou Lovable
+
+- <img width="531" height="292" alt="image" src="https://github.com/user-attachments/assets/d7ac0b9f-70b0-46ae-983c-58d8896a2756" />
+
+- <img width="531" height="505" alt="image" src="https://github.com/user-attachments/assets/8b27a134-0a4e-4383-930e-8257775a261f" />
+
+- <img width="531" height="802" alt="image" src="https://github.com/user-attachments/assets/dbb69b29-b627-46a1-8bab-7c27f5abba1d" />
+
+- <img width="531" height="804" alt="image" src="https://github.com/user-attachments/assets/293cb9c0-e935-4f11-81d2-2585fd69a232" />
+
+- <img width="531" height="797" alt="image" src="https://github.com/user-attachments/assets/963bb02f-9536-4509-9790-c9fc559ae558" />
+
 
 ## 🚀 Funcionalidades do MVP
 - Registro de gastos por conversa
 - Classificação automática
 - Metas financeiras
 - Dicas personalizadas
-- Relatórios simples
+- Relatórios simples (Dashboards)
 
 ## 🧩 Reflexão
 **O que funcionou bem:**  
