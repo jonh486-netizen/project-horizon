@@ -76,11 +76,15 @@ O conteúdo deve ser apresentado em português, com linguagem acessível e tom e
 
 ## 🧩 Reflexão
 **O que funcionou bem:**  
-A clareza do prompt facilitou respostas mais objetivas da IA.
-A utilização do lovable como produtor auxiliou bastante no desenvolvimento.
+
+- A clareza do prompt facilitou respostas mais objetivas da IA.
+
+- A utilização do lovable como produtor auxiliou bastante no desenvolvimento.
 
 **O que não funcionou como esperado:**  
-Algumas vezes as respostas precisaram ser refinadas para chegarem no ponto certo.
+
+- Algumas vezes as respostas precisaram ser refinadas para chegarem no ponto certo.
 
 **O que aprendi:**  
-Conversar bem com a IA é tão importante quanto saber programar. Quanto mais informações você troca, mais encorpado fica o resultado.
+
+- Conversar bem com a IA é tão importante quanto saber programar. Quanto mais informações você troca, mais encorpado fica o resultado.
